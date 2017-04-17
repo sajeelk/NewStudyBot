@@ -8,10 +8,12 @@ Running the program
 4. Clone the repository
 5. In the "NewStudyBot" directory, add a "config.py" file
 6. Add the following code:
+		<code>
 		consumer_key = "your consumer key here"
 		consumer_secret = "your consumer secret here"
 		access_token = "your access token here"
 		access_token_secret = "your access token secret"
+		</code>
 7. Go to your terminal or terminal emulator of choice, cd into the repo, then run main.py.
 
 
